@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PayrollExceptions
+comment1.params=name
+comment1.target=void\ checkName(java.lang.String)
+comment2.params=id
+comment2.target=void\ checkID(int)
+comment3.params=hours
+comment3.target=void\ checkHours(double)
+comment4.params=payrate
+comment4.target=void\ checkHourlyPayRate(double)
+numComments=5
